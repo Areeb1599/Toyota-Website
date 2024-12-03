@@ -1,0 +1,7 @@
+.nav-link:hover{
+    color: red;
+}
+.dropdown-item:hover{
+    background-color: aliceblue;
+    color: black;
+}
